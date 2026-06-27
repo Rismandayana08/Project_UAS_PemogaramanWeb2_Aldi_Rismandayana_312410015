@@ -83,4 +83,4 @@ Untuk meninjau dan menjalankan proyek ini di lingkungan pengembangan lokal (*loc
 
 ```
 ### Link Demonstrasi YouTube
-https://youtu.be/XYM21Gb4YaE?si=D9jX7gkctv5GWNNp
+[https://youtu.be/XYM21Gb4YaE?si=D9jX7gkctv5GWNNp](https://youtu.be/OfJkIi8dfr8?si=dXS1R7uIKgc2tBLL)
